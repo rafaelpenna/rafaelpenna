@@ -1,6 +1,6 @@
 ### Hi, I´m Rafael
 
-I´m a Mechanical Enginner that discovered an obcession about technology and decides to join this fascinating digital world.
+I´m a Mechanical Engineer that discovered an obsession about technology and decides to join this fascinating digital world.
 
 ## Languages and Tools
 
